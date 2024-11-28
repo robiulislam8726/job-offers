@@ -16,18 +16,18 @@ const JobDetails = () => {
     return (
         <div className="p-4">
 
-            <div className="grid gap-4 md:grid-cols-4 ">
-                <div className="border md:col-span-3 p-4">
-                    <h2 className="text-4xl mb-3">Details coming here</h2>
+            <div className="gap-4 grid md:grid-cols-4">
+                <div className="md:col-span-3 p-4 border">
+                    <h2 className="mb-3 text-4xl">Details coming here</h2>
                     <h2>Job Details of: {job.job_title}</h2>
                     <p>Company Name : {job.company_name}</p>
                     <p>remote_or_onsite: {job.remote_or_onsite}</p>
                     <p>Salary :  {job.salary}</p>
                     <p> Job Description: {job.job_description}</p>
                 </div>
-                <div className="border p-4">
-                    <h2 className="text-2xl mb-3">Side things</h2>
-                    <button onClick={handleApplyJob} className="btn btn-primary w-full">Apply Now</button>
+                <div className="p-4 border">
+                    <h2 className="mb-3 text-2xl">Side things</h2>
+                    <button onClick={handleApplyJob} className="w-full btn btn-primary">Apply Now</button>
                 </div>
             </div>
             <ToastContainer />

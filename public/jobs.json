@@ -1,117 +1,116 @@
 [
-     {
-      "id": 1,
-      "logo": "https://i.ibb.co/PzrbTxh/google-1-1-1.png",
-      "job_title": "Technical Database Engineer",
-      "company_name": "Ankh System",
-      "remote_or_onsite": "Remote",
-      "location": "Dhaka, Bangladesh",
-      "job_type": "Full Time",
-      "salary": "100k-150k",
-      "job_description": " A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
-      "job_responsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
-      "educational_requirements": "Bachelor degree to complete any reputational university.",
-      "experiences": "2-3 Years in this field.",
-      "contact_information": {
-        "phone": "01750-00 00 00",
-        "email": "info@gmail.com",
-        "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
-      }
-    },
-    {
-        "id": 2,
-        "logo": "https://i.ibb.co/PzrbTxh/google-1-1-1.png",
-        "job_title": "Senior Product Designer",
-        "company_name": "Netflix",
-        "remote_or_onsite": "Onsite",
-        "location": "Dhaka, Bangladesh",
-        "job_type": "Full Time",
-        "salary": "100k-150k",
-        "job_description": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
-        "job_responsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
-        "educational_requirements": "Bachelor degree to complete any reputational university.",
-        "experiences": "2-3 Years in this field.",
-        "contact_information": {
-          "phone": "01750-00 00 00",
-          "email": "info@gmail.com",
-          "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
-        }
-      },
-      {
-        "id": 3,
-        "logo": "https://i.ibb.co/PzrbTxh/google-1-1-1.png",
-        "job_title": "Software Engineer",
-        "company_name": "Tesla",
-        "remote_or_onsite": "Onsite",
-        "location": "Dhaka, Bangladesh",
-        "job_type": "Full Time",
-        "salary": "100k-150k",
-        "job_description": " A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
-        "job_responsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
-        "educational_requirements": "Bachelor degree to complete any reputational university.",
-        "experiences": "2-3 Years in this field.",
-        "contact_information": {
-          "phone": "01750-00 00 00",
-          "email": "info@gmail.com",
-          "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
-        }
-      },
-      {
-        "id": 4,
-        "logo": "https://i.ibb.co/PzrbTxh/google-1-1-1.png",
-        "job_title": "Software Engineer",
-        "company_name": "Google LLC",
-        "remote_or_onsite": "Onsite",
-        "location": "Dhaka, Bangladesh",
-        "job_type": "Full Time",
-        "salary": "100k-150k",
-        "job_description": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
-        "job_responsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
-        "educational_requirements": "Bachelor degree to complete any reputational university.",
-        "experiences": "2-3 Years in this field.",
-        "contact_information": {
-          "phone": "01750-00 00 00",
-          "email": "info@gmail.com",
-          "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
-        }
-      },
-      {
-        "id": 5,
-        "logo": "https://i.ibb.co/PzrbTxh/google-1-1-1.png",
-        "job_title": "Technical Database Engineer",
-        "company_name": "Tesla",
-        "remote_or_onsite": "Remote",
-        "location": "Dhaka, Bangladesh",
-        "job_type": "Full Time",
-        "salary": "100k-150k",
-        "job_description": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
-        "job_responsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
-        "educational_requirements": "Bachelor degree to complete any reputational university.",
-        "experiences": "2-3 Years in this field.",
-        "contact_information": {
-          "phone": "01750-00 00 00",
-          "email": "info@gmail.com",
-          "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
-        }
-      },
-      {
-        "id": 6,
-        "logo": "https://i.ibb.co/PzrbTxh/google-1-1-1.png",
-        "job_title": "Senior Product Designer",
-        "company_name": "Netflix",
-        "remote_or_onsite": "Remote",
-        "location": "Dhaka, Bangladesh",
-        "job_type": "Full Time",
-        "salary": "100k-150k",
-        "job_description": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
-        "job_responsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
-        "educational_requirements": "Bachelor degree to complete any reputational university.",
-        "experiences": "2-3 Years in this field.",
-        "contact_information": {
-          "phone": "01750-00 00 00",
-          "email": "info@gmail.com",
-          "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
-        }
-      }
-  
-  ]
+  {
+    "id": 1,
+    "logo": "https://i.ibb.co/PzrbTxh/google-1-1-1.png",
+    "job_title": "Software Engineer",
+    "company_name": "Ankh-Systems.co.jp",
+    "remote_or_onsite": "Remote",
+    "location": "Osaka, Japan",
+    "job_type": "Full Time",
+    "salary": "20万-30万",
+    "job_description": " Design, develop, and maintain software applications based on project requirements.languages (e.g., Java, Python, JavaScript, C++, etc.)",
+    "job_responsibility": "Collaborate with product managers, designers, and other engineers to define and implement software features and enhancements.Write unit tests and integrate testing frameworks to ensure code reliability and quality.",
+    "educational_requirements": "Bachelor degree to complete any  university.",
+    "experiences": "2-3 Years in this field.",
+    "contact_information": {
+      "phone": "06-6244-0808",
+      "email": "info@gmail.com",
+      "address": "〒542-0081 TAG Minamisenba Building 3F 4-7-15 Minamisenba, Chuo-ku, Osaka"
+    }
+  },
+  {
+    "id": 2,
+    "logo": "https://i.ibb.co/PzrbTxh/google-1-1-1.png",
+    "job_title": "Senior Product Designer",
+    "company_name": "Ankh-Systems.co.jp",
+    "remote_or_onsite": "Onsite",
+    "location": "Osaka, Japan",
+    "job_type": "Full Time",
+    "salary": "20万-30万",
+    "job_description": " Design, develop, and maintain software applications based on project requirements.languages (e.g., Java, Python, JavaScript, C++, etc.)",
+    "job_responsibility": "Collaborate with product managers, designers, and other engineers to define and implement software features and enhancements.Write unit tests and integrate testing frameworks to ensure code reliability and quality.",
+    "educational_requirements": "Bachelor degree to complete any  university.",
+    "experiences": "2-3 Years in this field.",
+    "contact_information": {
+      "phone": "06-6244-0808",
+      "email": "info@gmail.com",
+      "address": "〒542-0081 TAG Minamisenba Building 3F 4-7-15 Minamisenba, Chuo-ku, Osaka"
+    }
+  },
+  {
+    "id": 3,
+    "logo": "https://i.ibb.co/PzrbTxh/google-1-1-1.png",
+    "job_title": "Web Designer ",
+    "company_name": "Ankh-Systems.co.jp",
+    "remote_or_onsite": "Onsite",
+    "location": "Osaka, Japan",
+    "job_type": "Full Time",
+    "salary": "20万-30万",
+    "job_description": " Design, develop, and maintain software applications based on project requirements.languages (e.g., Java, Python, JavaScript, C++, etc.)",
+    "job_responsibility": "Collaborate with product managers, designers, and other engineers to define and implement software features and enhancements.Write unit tests and integrate testing frameworks to ensure code reliability and quality.",
+    "educational_requirements": "Bachelor degree to complete any  university.",
+    "experiences": "2-3 Years in this field.",
+    "contact_information": {
+      "phone": "06-6244-0808",
+      "email": "info@gmail.com",
+      "address": "〒542-0081 TAG Minamisenba Building 3F 4-7-15 Minamisenba, Chuo-ku, Osaka"
+    }
+  },
+  {
+    "id": 4,
+    "logo": "https://i.ibb.co/PzrbTxh/google-1-1-1.png",
+    "job_title": "App Engineer",
+    "company_name": "Ankh-Systems.co.jp",
+    "remote_or_onsite": "Onsite",
+    "location": "Osaka, Japan",
+    "job_type": "Full Time",
+    "salary": "20万-30万",
+    "job_description": " Design, develop, and maintain software applications based on project requirements.languages (e.g., Java, Python, JavaScript, C++, etc.)",
+    "job_responsibility": "Collaborate with product managers, designers, and other engineers to define and implement software features and enhancements.Write unit tests and integrate testing frameworks to ensure code reliability and quality.",
+    "educational_requirements": "Bachelor degree to complete any  university.",
+    "experiences": "2-3 Years in this field.",
+    "contact_information": {
+      "phone": "06-6244-0808",
+      "email": "info@gmail.com",
+      "address": "〒542-0081 TAG Minamisenba Building 3F 4-7-15 Minamisenba, Chuo-ku, Osaka"
+    }
+  },
+  {
+    "id": 5,
+    "logo": "https://i.ibb.co/PzrbTxh/google-1-1-1.png",
+    "job_title": "Database Engineer",
+    "company_name": "Ankh-Systems.co.jp",
+    "remote_or_onsite": "Remote",
+    "location": "Osaka, Japan",
+    "job_type": "Full Time",
+    "salary": "20万-30万",
+    "job_description": " Design, develop, and maintain software applications based on project requirements.languages (e.g., Java, Python, JavaScript, C++, etc.)",
+    "job_responsibility": "Collaborate with product managers, designers, and other engineers to define and implement software features and enhancements.Write unit tests and integrate testing frameworks to ensure code reliability and quality.",
+    "educational_requirements": "Bachelor degree to complete any  university.",
+    "experiences": "2-3 Years in this field.",
+    "contact_information": {
+      "phone": "06-6244-0808",
+      "email": "info@gmail.com",
+      "address": "〒542-0081 TAG Minamisenba Building 3F 4-7-15 Minamisenba, Chuo-ku, Osaka"
+    }
+  },
+  {
+    "id": 6,
+    "logo": "https://i.ibb.co/PzrbTxh/google-1-1-1.png",
+    "job_title": "Frontend Engineer",
+    "company_name": "Ankh-Systems.co.jp",
+    "remote_or_onsite": "Remote",
+    "location": "Osaka, Japan",
+    "job_type": "Full Time",
+    "salary": "20万-30万",
+    "job_description": " Design, develop, and maintain software applications based on project requirements.languages (e.g., Java, Python, JavaScript, C++, etc.)",
+    "job_responsibility": "Collaborate with product managers, designers, and other engineers to define and implement software features and enhancements.Write unit tests and integrate testing frameworks to ensure code reliability and quality.",
+    "educational_requirements": "Bachelor degree to complete any  university.",
+    "experiences": "2-3 Years in this field.",
+    "contact_information": {
+      "phone": "06-6244-0808",
+      "email": "info@gmail.com",
+      "address": "〒542-0081 TAG Minamisenba Building 3F 4-7-15 Minamisenba, Chuo-ku, Osaka"
+    }
+  }
+]

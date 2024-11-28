@@ -3,14 +3,12 @@ import { PiCurrencyCircleDollarBold } from "react-icons/pi";
 import { Link } from "react-router-dom";
 
 const Job = ({ job }) => {
-    const {id, logo, job_title, company_name, remote_or_onsite, location, job_type, salary } = job;
+    const {id, job_title, company_name, remote_or_onsite, location, job_type, salary } = job;
     return (
         <div className="bg-base-100 shadow-xl card card-compact">
-            <figure>
-                <img src={logo} alt="logo" /></figure>
             <div className="card-body">
                 <h2 className="card-title">{job_title}</h2>
-                <p>{company_name}</p>
+                <p className="font-bold text-green-700">{company_name}</p>
                 <div>
                     <button className="border-[#7E90FE] mr-4 px-5 py-2 border rounded font-extrabold text-[#7E90FE]">{remote_or_onsite}</button>
                     <button className="border-[#7E90FE] mr-4 px-5 py-2 border rounded font-extrabold text-[#7E90FE]">{job_type}</button>

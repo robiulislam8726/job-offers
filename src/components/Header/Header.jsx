@@ -1,5 +1,5 @@
 import { NavLink } from "react-router-dom";
-
+import logo from '../..//assets/image/logo.png';
 
 const Header = () => {
     const links = <>
@@ -10,13 +10,13 @@ const Header = () => {
         <li><NavLink to="/blogs">blogs</NavLink></li>
     </>
     return (
-        <div className="navbar bg-base-100">
+        <div className="bg-base-100 navbar">
             <div className="navbar-start">
                 <div className="dropdown">
-                    <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
+                    <div tabIndex={0} role="button" className="lg:hidden btn btn-ghost">
                         <svg
                             xmlns="http://www.w3.org/2000/svg"
-                            className="h-5 w-5"
+                            className="w-5 h-5"
                             fill="none"
                             viewBox="0 0 24 24"
                             stroke="currentColor">
@@ -29,14 +29,15 @@ const Header = () => {
                     </div>
                     <ul
                         tabIndex={0}
-                        className="menu menu-sm dropdown-content bg-base-100 rounded-box z-[1] mt-3 w-52 p-2 shadow">
+                        className="z-[1] bg-base-100 shadow mt-3 p-2 rounded-box w-52 dropdown-content menu menu-sm">
                             {links}
                     </ul>
                 </div>
-                <a className="btn btn-ghost text-xl">Career Hub</a>
+                {/* <a className="text-xl btn btn-ghost">Ankh System</a> */}
+                <img src= {logo} alt="" />
             </div>
-            <div className="navbar-center hidden lg:flex">
-                <ul className="menu menu-horizontal px-1">
+            <div className="lg:flex hidden navbar-center">
+                <ul className="px-1 menu menu-horizontal">
                     {links}
                 </ul>
             </div>
