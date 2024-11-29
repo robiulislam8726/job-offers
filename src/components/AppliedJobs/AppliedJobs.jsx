@@ -41,9 +41,9 @@ const AppliedJobs = () => {
     return (
         <div>
             <h2 className="text-2xl">Jobs I applied: {appliedJobs.length}</h2>
-            <details className="dropdown mb-32">
+            <details className="mb-32 dropdown">
                 <summary className="m-1 btn"> open or close</summary>
-                <ul className="p-2 shadow menu dropdown-content z-[1] bg-base-100 rounded-box w-52">
+                <ul className="z-[1] bg-base-100 shadow p-2 rounded-box w-52 dropdown-content menu">
                     <li onClick={()=> handleJobsFilter('all')}><a>All</a></li>
                     <li onClick={() => handleJobsFilter('remote')}><a>Remote</a></li>
                     <li onClick={() => handleJobsFilter('onsite')}><a>onSite</a></li>

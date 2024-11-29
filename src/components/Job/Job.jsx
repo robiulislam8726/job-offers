@@ -1,5 +1,5 @@
+import { HiCurrencyYen } from "react-icons/hi2"; 
 import { MdOutlineAddLocationAlt } from "react-icons/md";
-import { PiCurrencyCircleDollarBold } from "react-icons/pi";
 import { Link } from "react-router-dom";
 
 const Job = ({ job }) => {
@@ -15,7 +15,7 @@ const Job = ({ job }) => {
                 </div>
                 <div className="flex mt-4">
                     <h2 className="flex mr-4"><MdOutlineAddLocationAlt className="mr-2 text-2xl"></MdOutlineAddLocationAlt>{location}</h2>
-                    <h2 className="flex"><PiCurrencyCircleDollarBold className="mr-2 text-2xl"></PiCurrencyCircleDollarBold>{salary}</h2>
+                    <h2 className="flex"><HiCurrencyYen className="mr-2 text-2xl" ></HiCurrencyYen>{salary}</h2>
                 </div>
                 <div className="card-actions">
                     <Link to={`/job/${id}`}>
